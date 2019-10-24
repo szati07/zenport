@@ -1,8 +1,9 @@
 import React from 'react';
+import Form from '../../../../containers/Form/Form';
 
 const RestaurantSelectionView= () => {
     return (
-        <p>RestaurantSelectionViewWorks</p>
+        <Form/>
     );
 };
 
